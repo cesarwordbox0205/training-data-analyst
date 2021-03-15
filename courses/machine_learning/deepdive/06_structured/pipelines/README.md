@@ -25,7 +25,7 @@ Create Hosted Kubeflow Pipelines Instance
 In CloudShell:
 Run:
 ```
-git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+git clone https://github.com/cesarwordbox0205/training-data-analyst
 cd training-data-analyst/courses/machine_learning/deepdive/06_structured/pipelines
 ./setup_auth.sh kfpdemo us-central1-a cluster-1 default
 ```
@@ -50,7 +50,7 @@ Create Notebooks instance
 * Click on the URL for Open JupyterLab
 * Open a Terminal
 * Type:
-    ```git clone https://github.com/GoogleCloudPlatform/training-data-analyst```
+    ```git clone https://github.com/cesarwordbox0205/training-data-analyst```
 
 ### 2b. Navigate to notebook for development workflow
 * On the left-hand side menu, navigate to this notebook (training-data-analyst/courses/machine_learning/deepdive/06_structured/7_pipelines.ipynb)

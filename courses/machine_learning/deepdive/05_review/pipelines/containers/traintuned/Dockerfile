@@ -37,7 +37,7 @@ ENV PATH $PATH:/tools/node/bin:/tools/google-cloud-sdk/bin
 
 RUN mkdir -p /babyweight/src && \
     cd /babyweight/src && \
-    git clone https://github.com/GoogleCloudPlatform/training-data-analyst && \
+    git clone https://github.com/cesarwordbox0205/training-data-analyst && \
     rm -rf /ml/trainer
 
 COPY train.sh ./

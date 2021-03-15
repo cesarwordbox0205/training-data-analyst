@@ -16,7 +16,7 @@ FROM google/cloud-sdk:latest
 
 RUN mkdir -p /babyweight/src && \
     cd /babyweight/src && \
-    git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+    git clone https://github.com/cesarwordbox0205/training-data-analyst
 
 COPY train.sh hyperparam.yaml ./
 

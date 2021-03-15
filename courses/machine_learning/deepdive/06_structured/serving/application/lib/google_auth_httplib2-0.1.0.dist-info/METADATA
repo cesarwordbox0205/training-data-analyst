@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: google-auth-httplib2
 Version: 0.1.0
 Summary: Google Authentication Library: httplib2 transport
-Home-page: https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2
+Home-page: https://github.com/cesarwordbox0205/google-auth-library-python-httplib2
 Author: Google Cloud Platform
 Author-email: googleapis-packages@google.com
 License: Apache 2.0
@@ -43,7 +43,7 @@ This library provides an `httplib2`_ transport for `google-auth`_.
    :target: https://pypi.python.org/pypi/google-auth-httplib2
 
 .. _httplib2: https://github.com/httplib2/httplib2
-.. _google-auth: https://github.com/GoogleCloudPlatform/google-auth-library-python/
+.. _google-auth: https://github.com/cesarwordbox0205/google-auth-library-python/
 
 Installing
 ----------
@@ -59,6 +59,6 @@ License
 
 Apache 2.0 - See `the LICENSE`_ for more information.
 
-.. _the LICENSE: https://github.com/GoogleCloudPlatform/google-auth-library-python/blob/master/LICENSE
+.. _the LICENSE: https://github.com/cesarwordbox0205/google-auth-library-python/blob/master/LICENSE
 
 

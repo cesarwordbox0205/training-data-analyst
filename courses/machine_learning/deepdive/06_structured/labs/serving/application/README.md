@@ -21,7 +21,7 @@ You are supposed to have deployed the trained model for online predictions
  by following the instruction in the Cloud Datalab [notebook][4]. You need to
  use the same project to run this application.
 
-[4]: https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/blogs/babyweight/babyweight.ipynb
+[4]: https://github.com/cesarwordbox0205/training-data-analyst/blob/master/blogs/babyweight/babyweight.ipynb
 
 ## Do this first
 In this section you will start your [Google Cloud Shell][6] and clone the
@@ -37,7 +37,7 @@ In this section you will start your [Google Cloud Shell][6] and clone the
 3. Clone the lab repository in your cloud shell, then `cd` into that dir:
 
   ```shell
-  $ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+  $ git clone https://github.com/cesarwordbox0205/training-data-analyst
   Cloning into 'training-data-analyst'...
   ...
 

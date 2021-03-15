@@ -5,7 +5,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 # Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-# See https://github.com/GoogleCloudPlatform/datalab-samples/blob/master/basemap/earthquakes.ipynb for a notebook that illustrates this code
+# See https://github.com/cesarwordbox0205/datalab-samples/blob/master/basemap/earthquakes.ipynb for a notebook that illustrates this code
 
 import csv
 import requests
