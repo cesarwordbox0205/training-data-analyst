@@ -1,0 +1,6 @@
+steps:
+    - name: 'gcr.io/cloud-builders/docker'
+      dir:  'courses/machine_learning/deepdive/06_structured/pipelines/containers/hypertrain'   # remove-for-manual
+      args: [ 'build', '-t', 'gcr.io/youtubelist-256522/babyweight-pipeline-hypertrain:latest', '.' ]
+images:
+    - 'gcr.io/youtubelist-256522/babyweight-pipeline-hypertrain:latest'

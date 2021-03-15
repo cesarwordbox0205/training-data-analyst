@@ -1,0 +1,12 @@
+runtime: python37
+instance_class: F2
+
+handlers:
+- url: /
+  script: auto
+- url: /.*
+  script: auto
+
+env_variables:
+  MODEL_NAME: 'babyweight'
+  VERSION_NAME: 'mlp'
